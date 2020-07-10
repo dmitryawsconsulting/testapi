@@ -1,0 +1,41 @@
+[
+{
+id: 1,
+name: "NVR test",
+thumb: "//development-ftp-data-bucket20180815181535078400000001.s3.amazonaws.com/1/Thumb.jpg",
+events: {
+today: 0,
+week: 0
+},
+reports: {
+today: 0,
+week: 0
+}
+},
+{
+id: 6,
+name: "Ashkelon",
+thumb: "//development-ftp-data-bucket20180815181535078400000001.s3.amazonaws.com/6/Thumb.jpg",
+events: {
+today: 0,
+week: 0
+},
+reports: {
+today: 0,
+week: 0
+}
+},
+{
+id: 7,
+name: "City",
+thumb: "//development-ftp-data-bucket20180815181535078400000001.s3.amazonaws.com/7/Thumb.jpg",
+events: {
+today: 0,
+week: 0
+},
+reports: {
+today: 0,
+week: 0
+}
+}
+]
